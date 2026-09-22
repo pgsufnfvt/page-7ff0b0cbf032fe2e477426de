@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "91381dd1bed430ee54536f55",
+  "owner": "pgsufnfvt",
+  "repo": "page-7ff0b0cbf032fe2e477426de",
+  "title": "ROCKET加速(ROCKET)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7ff0b0cbf032fe2e477426de",
+      "a": "ROCKET加速(ROCKET)",
+      "b": "稳定全球clash加速器",
+      "entity": "ROCKET加速(ROCKET)",
+      "brand": "ROCKET加速(ROCKET)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8ba9d8febaad6cafc9b51cc116ea4522671734dd1cb1bedabc45be1fe53956d4",
+      "content": {
+        "primary_entity": "ROCKET加速(ROCKET)",
+        "keyword1": "ROCKET加速(ROCKET)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，ROCKET加速提供基础版、旗舰版与团队版三档订阅，月付和年付均可选。基础版每月100GB流量，旗舰版每月300GB并加入IPLC专线游戏优化，团队版每月1000GB可满足多设备场景。订阅后依据客户端文档导入节点配置即可使用，套餐按设备数量与流量需求划分，便于按需选择。",
+          "AI_HERO_SUBTITLE": "三档订阅按需选，全球节点随行",
+          "AI_HERO_INTRO": "ROCKET加速围绕设备数量、流量需求与订阅周期设计套餐，基础版适合个人日常，旗舰版覆盖多设备与流媒体，团队版面向多人共享。结合设备端客户端导入订阅，即可在常用平台上使用。",
+          "AI_VISUAL_TITLE": "ROCKET加速套餐随心选",
+          "AI_HIGHLIGHT_1": "月付年付灵活选择",
+          "AI_HIGHLIGHT_2": "三档套餐区分流量",
+          "AI_HIGHLIGHT_3": "多设备在线支持",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURES_INTRO": "按使用人数和流量选套餐，再对照设备系统选客户端。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合单人轻量使用，旗舰版300GB满足影音与游戏。",
+          "AI_FEATURE_TITLE_2": "按设备数选套餐",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版5台，团队版20台可覆盖小型办公场景。",
+          "AI_FEATURE_TITLE_3": "年付更省周期费",
+          "AI_FEATURE_TEXT_3": "基础版年付¥150、旗舰版¥350、团队版¥850，长周期使用更划算。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "依据设备系统选择对应客户端，再导入订阅配置。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月，均提供年付优惠。",
+          "AI_GUIDE_TITLE": "三步完成订阅与配置",
+          "AI_GUIDE_INTRO": "选套餐、核适配、按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "检查设备操作系统是否在客户端支持范围内，并确认同时在线设备数。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "参照所选客户端的使用文档，将订阅地址导入并启用节点配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "ROCKET加速轻松上手",
+          "AI_CLOSING_TEXT": "按需选好套餐，依设备完成订阅配置，开启稳定连接体验。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_QUESTION_1": "ROCKET加速支持哪些客户端？",
+          "AI_FAQ_ANSWER_1": "常见客户端包括Windows、macOS、Android、iOS等平台版本，具体按设备类型选择，导入订阅链接即可使用。",
+          "AI_FAQ_QUESTION_2": "套餐流量用完了怎么办？",
+          "AI_FAQ_ANSWER_2": "流量按月重置，若经常提前用完可升级至更高流量档位，如从基础版100GB升至旗舰版300GB。",
+          "AI_FAQ_QUESTION_3": "年付是否有优惠？",
+          "AI_FAQ_ANSWER_3": "按年付比月付更划算，基础版年付150元，旗舰版年付350元，团队版年付850元，相当于节省数月费用。",
+          "AI_FAQ_QUESTION_4": "团队版支持多少设备同时在线？",
+          "AI_FAQ_ANSWER_4": "团队版支持20台设备同时在线，并提供VIP专属高带宽节点和企业定制路由，适合小型团队使用。",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线有什么优势？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线节点，针对游戏加速优化，提供更稳定的低延迟连接，同时支持全节点原生流媒体解锁。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "larrr.cn",
+    "host": "larrr.cn"
+  },
+  "file_hashes": {
+    "index.html": "48684eae01aeae882073218199643e6fe6dc663893952ed485822f95fb5c0151",
+    "sitemap.xml": "0716f9c89ee7c05f6888a42bcd2625568db0a54b962f33ce8ba620bf9d092ecc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d49fc7dfa2664ec954db5662eddaa83f4f84494d506de3d7d9745d6463a3b3fe",
+    "robots.txt": "9b0f333ad633762828266206a0ac562731b5336d85816b4c2189d1b566f6812b",
+    "a8395207aa14bb793478c4e5930e2c3c.txt": "4180c31cfef395c04b029a2a4d6598f7dfa30213f175d3a7f69fb3fb5109d58c"
+  },
+  "revision": "2e387d92ff538c9da73d6b2fb5443f613d7098e7d7cffe4dc74079a18e8ce780"
+}
